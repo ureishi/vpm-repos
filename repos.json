@@ -1,7 +1,8 @@
 {
   "name": "ureishi",
   "author": "ureishi",
-  "url": "",
+  "url": "https://vpm.ureishi.net/repos.json",
+  "id": "net.ureishi.vpm",
   "packages": {
     "net.ureishi.qvpen": {
       "versions": {
