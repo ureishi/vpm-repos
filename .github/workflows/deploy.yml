@@ -36,7 +36,7 @@ jobs:
       - name: Copy artifact
         run: |
           mkdir -p dist/
-          cp repos.json install.html dist/
+          cp repos.json install.html index.html dist/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
