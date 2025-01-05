@@ -160,6 +160,34 @@
           "legacyFolders": {
             "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
           }
+        },
+        "3.3.0": {
+          "version": "3.3.0",
+          "name": "net.ureishi.qvpen",
+          "displayName": "QvPen",
+          "unity": "2019.4",
+          "description": "VRChat World Pen.",
+          "url": "https://github.com/ureishi/QvPen/releases/download/v3.3.0/net.ureishi.qvpen-3.3.0.zip",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.4.0"
+          },
+          "legacyFolders": {
+            "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
+          }
+        },
+        "3.3.1": {
+          "version": "3.3.1",
+          "name": "net.ureishi.qvpen",
+          "displayName": "QvPen",
+          "unity": "2019.4",
+          "description": "VRChat World Pen.",
+          "url": "https://github.com/ureishi/QvPen/releases/download/v3.3.1/net.ureishi.qvpen-3.3.1.zip",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.7.1"
+          },
+          "legacyFolders": {
+            "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
+          }
         }
       }
     }
