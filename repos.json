@@ -165,7 +165,7 @@
           "version": "3.3.0",
           "name": "net.ureishi.qvpen",
           "displayName": "QvPen",
-          "unity": "2019.4",
+          "unity": "2022.3",
           "description": "VRChat World Pen.",
           "url": "https://github.com/ureishi/QvPen/releases/download/v3.3.0/net.ureishi.qvpen-3.3.0.zip",
           "vpmDependencies": {
@@ -179,7 +179,7 @@
           "version": "3.3.1",
           "name": "net.ureishi.qvpen",
           "displayName": "QvPen",
-          "unity": "2019.4",
+          "unity": "2022.3",
           "description": "VRChat World Pen.",
           "url": "https://github.com/ureishi/QvPen/releases/download/v3.3.1/net.ureishi.qvpen-3.3.1.zip",
           "vpmDependencies": {
@@ -193,7 +193,7 @@
           "version": "3.3.2",
           "name": "net.ureishi.qvpen",
           "displayName": "QvPen",
-          "unity": "2019.4",
+          "unity": "2022.3",
           "description": "VRChat World Pen.",
           "url": "https://github.com/ureishi/QvPen/releases/download/v3.3.2/net.ureishi.qvpen-3.3.2.zip",
           "vpmDependencies": {
