@@ -341,6 +341,9 @@
           },
           "legacyFolders": {
             "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
+          },
+          "vrc-get": {
+            "yanked": true
           }
         },
         "3.3.13": {
