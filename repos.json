@@ -373,21 +373,6 @@
           "legacyFolders": {
             "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
           }
-        },
-        "3.3.15": {
-          "version": "3.3.15",
-          "name": "net.ureishi.qvpen",
-          "displayName": "QvPen",
-          "unity": "2022.3",
-          "description": "VRChat World Pen.",
-          "changelogUrl": "https://github.com/ureishi/QvPen/wiki",
-          "url": "https://github.com/ureishi/QvPen/releases/download/v3.3.15/net.ureishi.qvpen-3.3.15.zip",
-          "vpmDependencies": {
-            "com.vrchat.worlds": "^3.5.0"
-          },
-          "legacyFolders": {
-            "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
-          }
         }
       }
     }
