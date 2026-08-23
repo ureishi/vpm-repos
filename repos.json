@@ -403,6 +403,21 @@
           "legacyFolders": {
             "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
           }
+        },
+        "3.4.0-beta.2": {
+          "version": "3.4.0-beta.2",
+          "name": "net.ureishi.qvpen",
+          "displayName": "QvPen",
+          "unity": "2022.3",
+          "description": "VRChat World Pen.",
+          "changelogUrl": "https://github.com/ureishi/QvPen/wiki/Changelog",
+          "url": "https://github.com/ureishi/QvPen/releases/download/v3.4.0-beta.2/net.ureishi.qvpen-3.4.0-beta.2.zip",
+          "vpmDependencies": {
+            "com.vrchat.worlds": "^3.8.1"
+          },
+          "legacyFolders": {
+            "Assets\\QvPen": "0eeec8527d6948040915b97bddf0ba10"
+          }
         }
       }
     }
